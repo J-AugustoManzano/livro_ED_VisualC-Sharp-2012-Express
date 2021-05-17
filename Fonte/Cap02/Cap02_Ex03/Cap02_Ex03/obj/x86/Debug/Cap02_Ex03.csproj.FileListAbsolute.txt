@@ -1,0 +1,5 @@
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap02_Ex03\bin\Debug\Cap02_Ex03.exe
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap02_Ex03\bin\Debug\Cap02_Ex03.pdb
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap02_Ex03\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap02_Ex03\obj\x86\Debug\Cap02_Ex03.exe
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap02_Ex03\obj\x86\Debug\Cap02_Ex03.pdb
