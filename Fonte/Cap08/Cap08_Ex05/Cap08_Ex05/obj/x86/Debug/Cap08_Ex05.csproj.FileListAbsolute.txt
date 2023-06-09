@@ -1,0 +1,11 @@
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap08_Ex05\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap08_Ex05\obj\x86\Debug\Cap08_Ex05.Form1.resources
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap08_Ex05\obj\x86\Debug\Cap08_Ex05.Properties.Resources.resources
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap08_Ex05\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap08_Ex05\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap08_Ex05\bin\Debug\Cap08_Ex05.exe
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap08_Ex05\bin\Debug\Cap08_Ex05.pdb
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap08_Ex05\obj\x86\Debug\Cap08_Ex05.exe
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap08_Ex05\obj\x86\Debug\Cap08_Ex05.pdb
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap08_Ex05\Cap08_Ex05\obj\x86\Debug\Cap08_Ex05.exe
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap08_Ex05\Cap08_Ex05\obj\x86\Debug\Cap08_Ex05.pdb
