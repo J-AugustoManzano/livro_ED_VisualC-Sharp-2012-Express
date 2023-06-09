@@ -1,0 +1,5 @@
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap05_Ex05\Cap05_Ex05\bin\Debug\Cap05_Ex05.exe
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap05_Ex05\Cap05_Ex05\bin\Debug\Cap05_Ex05.pdb
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap05_Ex05\Cap05_Ex05\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap05_Ex05\Cap05_Ex05\obj\x86\Debug\Cap05_Ex05.exe
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap05_Ex05\Cap05_Ex05\obj\x86\Debug\Cap05_Ex05.pdb
