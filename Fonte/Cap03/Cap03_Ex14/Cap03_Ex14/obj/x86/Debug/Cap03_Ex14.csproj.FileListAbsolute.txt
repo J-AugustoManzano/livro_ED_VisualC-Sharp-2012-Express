@@ -1,0 +1,10 @@
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap03_Ex14\bin\Debug\Cap03_Ex14.exe
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap03_Ex14\bin\Debug\Cap03_Ex14.pdb
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap03_Ex14\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap03_Ex14\obj\x86\Debug\Cap03_Ex14.exe
+C:\Users\Usuário\AppData\Local\Temporary Projects\Cap03_Ex14\obj\x86\Debug\Cap03_Ex14.pdb
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap03_Ex14\Cap03_Ex14\obj\x86\Debug\Cap03_Ex14.exe
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap03_Ex14\Cap03_Ex14\obj\x86\Debug\Cap03_Ex14.pdb
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap03_Ex14\Cap03_Ex14\bin\Debug\Cap03_Ex14.exe
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap03_Ex14\Cap03_Ex14\bin\Debug\Cap03_Ex14.pdb
+C:\Users\Usuário\documents\visual studio 2010\Projects\Cap03_Ex14\Cap03_Ex14\obj\x86\Debug\ResolveAssemblyReference.cache
